@@ -8,3 +8,11 @@ https://github.com/laogenglgll/highspeed
 ## 地址
 https://github.com/laogenglgll/dianDao
 
+## 用户管理中心
+代码找不到了，能找到个图。
+![da8be51d77d414d78ad42f2a614df24.jpg](src\main\resources\static\img\da8be51d77d414d78ad42f2a614df24.jpg)
+
+## 博客
+没写东西。
+![8126678524bf99a3e6a5924c82f3c0f.jpg](src\main\resources\static\img\img.png)
+不写ip了，怕大佬挖矿。
