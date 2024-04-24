@@ -16,3 +16,7 @@ https://github.com/laogenglgll/dianDao
 没写东西。
 ![8126678524bf99a3e6a5924c82f3c0f.jpg](src\main\resources\static\img\img.png)
 不写ip了，怕大佬挖矿。
+
+## py爬虫
+小米商城图片爬虫的结果图
+![file_1713971791575_640.png](src/main/resources/static/img/file_1713971791575_640.png)

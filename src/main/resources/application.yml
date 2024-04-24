@@ -12,7 +12,7 @@ server:
   port: 8080
 #sql url
 spring:
-  datasource.url: jdbc:mysql://localhost:3309/paimai?useUnicode=true&characterEncoding=utf-8&serverTimezone=UTC
+  datasource.url: jdbc:mysql://localhost:3306/paimai?useUnicode=true&characterEncoding=utf-8&serverTimezone=UTC
 #sql name
   datasource.username: root
 #pwd
